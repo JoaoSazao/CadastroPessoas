@@ -15,7 +15,6 @@ O objetivo é aplicar conceitos essenciais como classes, objetos, construtores, 
 - Organização de pacotes
 - Execução via console (CLI)
 
----
 
 ## 🏗️ Estrutura do projeto
 src/ <br>
