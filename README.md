@@ -3,7 +3,6 @@
 Projeto simples desenvolvido em Java com foco nos fundamentos de **Programação Orientada a Objetos (POO)**.  
 O objetivo é aplicar conceitos essenciais como classes, objetos, construtores, encapsulamento e métodos.
 
----
 
 ## 🧠 Conceitos aplicados
 
@@ -26,7 +25,6 @@ src/ <br>
 └── app/ <br>
 └── Main.java <br>
 
----
 
 ## 👤 Classe Pessoa
 
@@ -42,7 +40,6 @@ A classe `Pessoa` representa uma entidade do sistema e possui os seguintes atrib
 - `exibirDados()` → Exibe as informações da pessoa no console
 - `isMaiorDeIdade()` → Retorna `true` se a pessoa for maior de idade
 
----
 
 ## ▶️ Como executar o projeto
 
