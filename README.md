@@ -18,14 +18,14 @@ O objetivo é aplicar conceitos essenciais como classes, objetos, construtores, 
 ---
 
 ## 🏗️ Estrutura do projeto
-src/
-└── br/
-└── com/
-└── cadastro/
-├── model/
-│ └── Pessoa.java
-└── app/
-└── Main.java
+src/ <br>
+└── br/ <br>
+└── com/ <br>
+└── cadastro/ <br>
+├── model/ <br>
+│ └── Pessoa.java <br>
+└── app/ <br>
+└── Main.java <br>
 
 ---
 
