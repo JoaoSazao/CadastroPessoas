@@ -62,7 +62,7 @@ Altura: 1.75
 Maior de idade: true
 ```
 
-#👨‍💻 Autor
+# 👨‍💻 Autor
 
 Desenvolvido por João Victor
 Estudante de Engenharia de Software
